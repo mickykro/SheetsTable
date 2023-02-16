@@ -10,7 +10,7 @@ const ColorKeysList = ({colorKeysList, length}) =>{
     scrollEnabled={false}
     renderItem={ck => {
         let colorKey = ck.item
-        return <ColorKey color={colorKey.color} value={colorKey.count / length * 100 } Key={colorKey.key} />
+        return <ColorKey color={colorKey.color} value={(colorKey.count / length * 100 ).toFixed(1)} Key={colorKey.key} />
     }}
     />)
 }
