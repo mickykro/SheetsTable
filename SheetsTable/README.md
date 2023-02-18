@@ -21,7 +21,7 @@ this is the link for the sheet to be changed.
 in the next version we will add a custom sheet. 
 
 <img src="assets/screeshot1.png"  width="40%">
-<img src="assets/screeshot1.png"  width="40%">
+<img src="assets/screenshot2.png"  width="40%">
 
 
 
