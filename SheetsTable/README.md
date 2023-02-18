@@ -20,9 +20,8 @@ this is the link for the sheet to be changed.
 
 in the next version we will add a custom sheet. 
 
-<img src="assets/screeshot1.png"  width="60%" height="30%">
-![This is an image](assets/screeshot1.png | width=100)
-![This is an image](assets/screenshot2.png | width=100)
+<img src="assets/screeshot1.png"  width="40%">
+<img src="assets/screeshot1.png"  width="40%">
 
 
 
